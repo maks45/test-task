@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">TestApplication</string>
+    <string name="contact_photo">Contact photo</string>
+    <string name="some_test_text">some test text</string>
+    <string name="contact_detail_photo">contact_detail_photo</string>
+    <string name="phone_number">Phone number:</string>
+    <string name="email">Email:</string>
 </resources>

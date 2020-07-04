@@ -1,0 +1,66 @@
+{
+  "results": [
+    {
+      "gender": "male",
+      "name": {
+        "title": "Mr",
+        "first": "Fatih",
+        "last": "Van den Boogaart"
+      },
+      "location": {
+        "street": {
+          "number": 1108,
+          "name": "Boskapelle"
+        },
+        "city": "Valthermond",
+        "state": "Zeeland",
+        "country": "Netherlands",
+        "postcode": 11978,
+        "coordinates": {
+          "latitude": "41.9182",
+          "longitude": "-50.5755"
+        },
+        "timezone": {
+          "offset": "-7:00",
+          "description": "Mountain Time (US & Canada)"
+        }
+      },
+      "email": "fatih.vandenboogaart@example.com",
+      "login": {
+        "uuid": "4c313de0-3c15-4bd7-81be-f36af11afac3",
+        "username": "sadwolf967",
+        "password": "bbbbbbb",
+        "salt": "pXetSZDF",
+        "md5": "4073b126ea35d93de62f360bf5c043d3",
+        "sha1": "fea3cf72cb1024cb54fe1d454c8612f8b1d16901",
+        "sha256": "19152dba133f4be38408ba1d544ab593bf13225216920bf2496c7284e10ff4a2"
+      },
+      "dob": {
+        "date": "1956-01-03T14:54:09.806Z",
+        "age": 64
+      },
+      "registered": {
+        "date": "2008-10-25T10:05:23.135Z",
+        "age": 12
+      },
+      "phone": "(911)-696-7289",
+      "cell": "(725)-431-4536",
+      "id": {
+        "name": "BSN",
+        "value": "53145793"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/65.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/65.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/65.jpg"
+      },
+      "nat": "NL"
+    }
+  ],
+  "info": {
+    "seed": "5e0a2d5acaae63ab",
+    "results": 1,
+    "page": 1,
+    "version": "1.3"
+  }
+}
